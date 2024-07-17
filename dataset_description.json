@@ -1,9 +1,9 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "Vassiki Chauhan",
         "Krystal McCook",
-        "Alex L. White"
+        "Alex L. White",
+        "Vassiki S. Chauhan"
     ],
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
