@@ -1,10 +1,9 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "Vassiki Chauhan",
+        "Krystal McCook",
+        "Alex White"
     ],
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "doi:10.18112/openneuro.ds005295.v1.0.1",
